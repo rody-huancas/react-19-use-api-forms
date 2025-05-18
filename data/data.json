@@ -19,16 +19,16 @@
       "distanceFromSun": "149.6 millones de km"
     },
     {
-      "id": "j0k1l2",
-      "name": "Marte",
-      "type": "Planeta",
-      "distanceFromSun": "227.9 millones de km"
+      "id": "81d7",
+      "name": "urano",
+      "type": "planeta",
+      "distanceFromSun": "5454"
     },
     {
-      "id": "m3n4o5",
-      "name": "Júpiter",
-      "type": "Planeta",
-      "distanceFromSun": "778.5 millones de km"
+      "id": "2707",
+      "name": "marte",
+      "type": "planeta",
+      "distanceFromSun": "654456"
     }
   ]
 }
